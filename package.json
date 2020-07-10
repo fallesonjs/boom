@@ -1,5 +1,5 @@
 {
-  "name": "@luis/boom",
+  "name": "@falleson/boom",
   "version": "1.0.0",
   "description": "Error exception class",
   "main": "lib/index.js",
